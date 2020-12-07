@@ -6,8 +6,10 @@ Other than that, it's pretty much the same to the original version.
 
 Shulker Box R1 (Original)
 https://www.youtube.com/watch?v=P2w7eSFBshI
+
 Made by DarthLilo
 https://www.youtube.com/channel/UCz7K2OShbCbHp3pv3Q_pThQ
+
 Edited by Endertainer007
 https://www.youtube.com/channel/UCQqCAOYWkpV9FvDJF1fwHIQ
 
