@@ -1,8 +1,7 @@
 # ShulkerBox Endertainer007Edit Rig
 
 > Whats is this Rig?
-This rig is a custom version of DarthLilo's Shulker Box R1.0.1 Rig.
-Other than that, it's pretty much the same to the original version.
+This rig is a custom version of DarthLilo's Shulker Box R1.0.1 Rig. Other than that, it's pretty much the same to the original version. This version adds some new feature and fixes to make the rig more rich and easier to use.
 
 Shulker Box R1 (Original)
 https://www.youtube.com/watch?v=P2w7eSFBshI
