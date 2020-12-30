@@ -12,7 +12,8 @@ Q&A
 This rig is a custom version of DarthLilo's Shulker Box R1.0.1 Rig.
 
 > What's new in this version?
--Fixed Body Squash
+-Fixed Body Squash issue
+-Fixed Right Arm Smooth Bend issue
 
 Other than that, it's pretty much the same to the original version.
 
