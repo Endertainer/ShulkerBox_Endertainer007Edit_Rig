@@ -4,7 +4,7 @@
 > 
 > Whats is this Rig? 
 > 
-> This rig is a custom version of DarthLilo's Shulker Box R1.0.1 Rig. Other than that, it's pretty much the same to the original version. There is a lot of Minecraft Character rig out there that aims to give the user a good experience and quality. These rigs come with many different styles and features that give the user many options. And that's also the aims of this rig, to give the user a good quality rig with many features and options to gives the best experience and overall amazing result. Shulker Box R1 is an amazing advanced Rig created with many features and a good quality body model. This rig is a continuation of the now-discontinued LACM Rig (Lilo Advanced Character Model).
+> This rig is a custom version of DarthLilo's Shulker Box R1.0.1 Rig. Other than that, it's pretty much the same as the original version. There is a lot of Minecraft Character rig out there that aims to give the user a good experience and quality. These rigs come with many different styles and features that give the user many options. And that's also the aims of this rig, to give the user a good quality rig with many features and options to gives the best experience and overall amazing result. Shulker Box R1 is an amazing advanced Rig created with many features and a good quality body model. This rig is a continuation of the now-discontinued LACM Rig (Lilo Advanced Character Model).
 > 
 >With that said, what's is this rig? And why it was created? 
 > 
