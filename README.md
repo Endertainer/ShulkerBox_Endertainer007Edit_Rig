@@ -14,7 +14,6 @@ https://www.youtube.com/channel/UCQqCAOYWkpV9FvDJF1fwHIQ
 
 This rig is made for Blender 2.90 and higher
 
-Creators & Editors
-
--DarthLilo (Founder)
--Endertainer007 (Main Editor)
+>Creators & Editors
+- DarthLilo (Founder)
+- Endertainer007 (Main Editor)
