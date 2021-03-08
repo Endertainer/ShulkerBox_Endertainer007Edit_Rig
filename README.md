@@ -14,7 +14,7 @@
 
 This rig is not originally made by me. This Rig is based on the original Shulker Box R1.0.1 by DarthLilo. So all credits were to go to the original creator. I'm just customizing and improving this rig.
 
-> What does this rig has? (v1.0.6a)
+> What does this rig have? (v1.0.6a)
 
 - New custom UI
 
