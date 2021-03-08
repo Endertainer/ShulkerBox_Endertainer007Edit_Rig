@@ -1,4 +1,4 @@
-# ShulkerBox Endertainer007Edit Rig
+# ShulkerBox Endertainer007 Edit Rig
 
 ![](Documents/Images/Shulker_Box_R1_Endertainer007_Edit.png)
 > Whats is this Rig?
